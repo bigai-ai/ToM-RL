@@ -2,7 +2,6 @@
 
 set -x
 
-# 获取今天的日期
 TODAY=$(date +%Y%m%d)
 mkdir -p logs/${TODAY}
 
